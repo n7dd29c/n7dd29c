@@ -25,7 +25,7 @@
 
 
 
-<h2 align="center">✅ 저는 멈추지 않고 성장하는 개발자입니다.</h2>
+<h3 align="center">✅ 저는 멈추지 않고 성장하는 개발자입니다.</h3>
 <h4 align="right">Contact me!</h4>
 
 <p align="right">
