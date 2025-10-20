@@ -30,9 +30,9 @@
 
 <p align="right">
   <a href="https://mail.google.com/mail/?view=cm&to=n7dd29c@gmail.com&su=Hello%20Taeyoung&body=안녕하세요.">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://wool-porpoise-f5f.notion.site/Tensorflow-PyTorch-Transformer-LLM-291e7d25ba168063bf58fd1489b8daf9?source=copy_link">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion">
   </a>
 </p>
