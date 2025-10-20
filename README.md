@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/PyTorch-3776AB.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--learn-3776AB.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-3776AB.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+</p>
+<p>
   <img src="https://img.shields.io/badge/numpy-3776AB.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-3776AB.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-3776AB.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
