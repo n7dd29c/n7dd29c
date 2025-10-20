@@ -23,7 +23,7 @@
 
 <h2 align="center"><em>"It does not matter how slowly you go as long as you do not stop."</em></h2>
 
-<hr/>
+
 
 <h4 align="center">✅ 저는 멈추지 않고 성장하는 개발자입니다.</h4>
 <h4 align="right">Contact me!</h4>
