@@ -28,11 +28,5 @@
 <h3 align="center">✅ 저는 멈추지 않고 성장하는 개발자입니다.</h3>
 <h4 align="right">Contact me!</h4>
 
-<p align="right">
-  <a href="https://mail.google.com/mail/?view=cm&to=n7dd29c@gmail.com&su=Hello%20Taeyoung&body=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.">
-    <img height="22" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
-  </a><!--
-  --><a href="https://wool-porpoise-f5f.notion.site/Tensorflow-PyTorch-Transformer-LLM-291e7d25ba168063bf58fd1489b8daf9?source=copy_link">
-    <img height="22" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion">
-  </a>
-</p>
+<p align="right"><a href="https://mail.google.com/mail/?view=cm&to=n7dd29c@gmail.com&su=Hello%20Taeyoung&body=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94."><img height="22" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a><a href="https://wool-porpoise-f5f.notion.site/Tensorflow-PyTorch-Transformer-LLM-291e7d25ba168063bf58fd1489b8daf9?source=copy_link"><img height="22" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion"></a></p>
+
