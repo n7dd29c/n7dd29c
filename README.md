@@ -1,5 +1,5 @@
 ## "It does not matter how slowly you go as long as you do not stop."
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=5000&width=435&lines=%22It+does+not+matter+how+slowly+you+go+as+long+as+you+do+not+stop.%22" alt="Typing SVG" /></a>
+<img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>?style=<STYLE>&logo=<LOGO>&logoColor=<LOGO-COLOR>"/>
 <!--
 **n7dd29c/n7dd29c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
