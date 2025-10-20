@@ -1,5 +1,5 @@
 ## "It does not matter how slowly you go as long as you do not stop."
-<img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>?style=<STYLE>&logo=<LOGO>&logoColor=<LOGO-COLOR>"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 <!--
 **n7dd29c/n7dd29c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
